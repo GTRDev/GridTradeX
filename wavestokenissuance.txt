@@ -1,0 +1,16 @@
+The team has minted 10,000 $GTRX Tokens in WAVES Network and burned 10,000 $GTRX in ETHEREUM Network.
+
+Still 0% inflation.
+
+GTRX/WAVES
+
+https://waves.exchange/trade/2PbUSixcBV7euxQdBuSGs3Ay2FCdZx9ZCqt2oBy68ZAn_WAVES
+
+GTRX/ETH
+
+https://waves.exchange/trade/2PbUSixcBV7euxQdBuSGs3Ay2FCdZx9ZCqt2oBy68ZAn_ETH
+
+
+Ethereum Network $GTRX Burn Transaction Hash
+
+https://etherscan.io/tx/0x05965438eab6793ebf70dd095c5923e24bc0d442e10cc2f9fe2095ae360529de
